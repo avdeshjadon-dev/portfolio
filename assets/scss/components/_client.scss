@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
+    <title>Bostami Html Template</title>
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Slab:wght@300;400;500;600;700;800;900&display=swap">
+
+    <!-- CSS here -->
+    <link rel="stylesheet" href="bostami-template/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="bostami-template/assets/css/animate.min.css">
+    <link rel="stylesheet" href="bostami-template/assets/css/fontawesome.min.css">
+    <link rel="stylesheet" href="bostami-template/assets/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+
+    <!-- hero area -->
+    <div class="hero-area">
+        <div class="container">
+            <div class="content-flex">
+                <div class="hero-content-wrap">
+                    <img class="site-logo" src="img/logo-preview.png" alt="">
+                    <h1 class="title">Modern,Trending & Creative Portfolio <br>
+                        <span>Bootstrap 5 HTML Template</span>
+                    </h1>
+                    <div class="hero-btn-wrap">
+                        <a class="btn btn-1" href="#demo">view demo <i class="far fa-arrow-down"></i></a>
+                        <a class="btn btn-2" target="_blank" rel="noopener noreferrer"
+                            href="https://themeforest.net/user/elite-themes24">Purchase
+                            Now</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- hemo demo -->
+    <div class="home-demo-area bg-black " id="demo">
+        <div class="container">
+            <div class="section-title-wrap text-center mb-70">
+                <h1 class="main-title">home demo</h1>
+                <img class="bg-shape" src="img/preview.png" alt="">
+                <h2 class="section-title">03 Awesome Light & Dark Demo</h2>
+                <p class="section-pera">Bostami build with Modern, Elegant & Beautiful trendng
+                    <br> technology like Bootstrap 5 HTML template.
+                </p>
+            </div>
+
+            <div class="row">
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <a class="demo-link"  href="bostami-template/index.html">
+                        <span>
+                            <img src="img/homeblue.png" alt="">
+                        </span>
+                        <span class="demo-title">Sidebar With Box</span>
+                    </a>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <a class="demo-link"  href="bostami-template/home-2.html">
+                        <span>
+                            <img src="img/hometwolight.png" alt="">
+                        </span>
+                        <span class="demo-title">Regular Layout</span>
+                    </a>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <a class="demo-link"  href="bostami-template/home-3.html">
+                        <span>
+                            <img src="img/homeonelight.png" alt="">
+                        </span>
+                        <span class="demo-title">Box Layout</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- feature -->
+    <div class="home-demo-area bg-gray">
+
+        <div class="container">
+            <div class="section-title-wrap text-center mb-60">
+                <h1 class="main-title">Salient Features</h1>
+                <img class="bg-shape" src="img/preview.png" alt="">
+            </div>
+
+            <div class="row">
+
+                <div class="col-lg-4 col-md-6">
+                    <div class="feature-item">
+                        <div class="feature-icon">
+                            <img src="img/1.png" alt="">
+                        </div>
+                        <h3 class="feature-title">HTML 5</h3>
+                        <p class="feature-text">HTML5 has transformed web development by introducing powerful features
+                            like semantic elements, multimedia support, enhanced form controls, dynamic graphics, and
+                            simplified media embedding. It's the future of the web.</p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="feature-item">
+                        <div class="feature-icon">
+                            <img src="img/2.png" alt="">
+                        </div>
+                        <h3 class="feature-title">CSS 3</h3>
+                        <p class="feature-text">CSS3, the latest version of Cascading Style Sheets, empowers web
+                            designers with advanced styling capabilities, including animations, transitions, gradients,
+                            shadows, and flexible layouts, enhancing the visual appeal and user experience of websites.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="feature-item">
+                        <div class="feature-icon">
+                            <img src="img/3.png" alt="">
+                        </div>
+                        <h3 class="feature-title">Bootstrap5+</h3>
+                        <p class="feature-text">Bootstrap 5, the popular front-end framework, simplifies responsive web
+                            design with its extensive library of pre-built components, grid system, and CSS utilities,
+                            allowing developers to create modern and mobile-friendly websites quickly.</p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="feature-item">
+                        <div class="feature-icon">
+                            <img src="img/8.png" alt="">
+                        </div>
+                        <h3 class="feature-title">Semantic Markup</h3>
+                        <p class="feature-text">Semantic markup in HTML provides a structural meaning to web content,
+                            allowing search engines and assistive technologies to better understand and interpret the
+                            information, resulting in improved accessibility and SEO.</p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="feature-item">
+                        <div class="feature-icon">
+                            <img src="img/5.png" alt="">
+                        </div>
+                        <h3 class="feature-title">Modern Ui</h3>
+                        <p class="feature-text">
+                            Modern UI design focuses on simplicity, clean aesthetics, intuitive navigation, and visual
+                            appeal. It embraces minimalism, flat design, whitespace, vibrant colors, and responsive
+                            layouts, creating engaging and user-friendly digital experiences.</p>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <div class="feature-item">
+                        <div class="feature-icon">
+                            <img src="img/9.png" alt="">
+                        </div>
+                        <h3 class="feature-title">Working Contact Form</h3>
+                        <p class="feature-text">A working contact form is an essential component of a website, allowing
+                            visitors to easily communicate with the website owner. It captures user input, validates
+                            data, and sends messages, enhancing user engagement and facilitating effective
+                            communication.</p>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+    <!-- buy -->
+    <div class="home-demo-area bg-black">
+        <div class="container">
+            <div class="text-center">
+                <h2 class="title">Purchase Bostami & Build Your Dream <br> Modern
+                    <span>Bootstrap 5 HTML Portfolio </span> Template.
+                </h2>
+                <a class="btn btn-1" target="_blank" rel="noopener noreferrer"
+                    href="https://themeforest.net/user/elite-themes24">Purchase
+                    Now</a>
+            </div>
+        </div>a
+    </div>
+
+    <div class="copy-right">
+        <div class="text-center">
+            <span>© 2024 All Rights Reserved by <a target="_blank" rel="noopener noreferrer"
+                    href="https://themeforest.net/user/elite-themes24">elite-themes</a>.</span>
+        </div>
+    </div>
+
+
+    <!-- <script src="bostami-template/assets/js/jquery.min.js"></script>
+    <script src="bostami-template/assets/js/bootstrap.bundle.min.js"></script>
+    <script src="bostami-template/assets/js/wow.js"></script>
+    <script src="bostami-template/assets/js/appear.min.js"></script> -->
+    <!-- <script src="bostami-template/assets/js/main.js"></script> -->
+
+</body>
+
+
+</html>
