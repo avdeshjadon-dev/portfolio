@@ -20,7 +20,7 @@ This portfolio website is designed to highlight my professional journey, skills,
 - [Add any additional libraries/frameworks if used]  
 
 ## 📸 Preview  
-![Portfolio Preview](https://via.placeholder.com/800x400.png?text=Portfolio+Screenshot)  
+![Portfolio Preview](https://drive.google.com/file/d/14BF7A7A8LCIcksv1LN70hpl7mZsUy3AM/view?usp=sharing)  
 *(Replace the above URL with an actual screenshot of your portfolio)*  
 
 ## 📂 Installation & Usage  
