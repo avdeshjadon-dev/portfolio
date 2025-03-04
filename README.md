@@ -20,8 +20,8 @@ This portfolio website is designed to highlight my professional journey, skills,
 - [Add any additional libraries/frameworks if used]  
 
 ## 📸 Preview  
-![Portfolio Preview](https://drive.google.com/file/d/14BF7A7A8LCIcksv1LN70hpl7mZsUy3AM/view?usp=sharing)  
-*(Replace the above URL with an actual screenshot of your portfolio)*  
+![Portfolio Preview](https://drive.google.com/uc?id=14BF7A7A8LCIcksv1LN70hpl7mZsUy3AM)  
+*(If the image doesn't display, ensure that it's publicly accessible on Google Drive.)*  
 
 ## 📂 Installation & Usage  
 If you want to run this project locally:  
